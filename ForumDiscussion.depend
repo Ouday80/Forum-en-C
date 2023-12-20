@@ -1,0 +1,112 @@
+# depslib dependency file v1.0
+1702929203 source:c:\users\asus gam\desktop\c progs\forumdiscussion\auteur.c
+	"auteur.h"
+	<stdio.h>
+	<string.h>
+
+1702834274 source:c:\users\asus gam\desktop\c progs\forumdiscussion\forum.c
+	"forum.h"
+	<string.h>
+
+1702928886 source:c:\users\asus gam\desktop\c progs\forumdiscussion\main.c
+	<stdio.h>
+	<stdlib.h>
+	"profil.h"
+	"auteur.h"
+	"forum.h"
+
+1702571027 source:c:\users\asus gam\desktop\c progs\forumdiscussion\menu.c
+	"menu.h"
+
+1702834337 source:c:\users\asus gam\desktop\c progs\forumdiscussion\message.c
+	"message.h"
+	<stdio.h>
+
+1702927736 source:c:\users\asus gam\desktop\c progs\forumdiscussion\profil.c
+	"profil.h"
+	<stdlib.h>
+	<stdio.h>
+
+1702927721 c:\users\asus gam\desktop\c progs\forumdiscussion\profil.h
+	"date.h"
+
+1700385643 c:\users\asus gam\desktop\c progs\forumdiscussion\date.h
+	<stdio.h>
+
+1702588659 source:c:\users\asus gam\desktop\c progs\forumdiscussion\rubrique.c
+	"rubrique.h"
+	<stdio.h>
+
+1700403733 source:c:\users\asus gam\desktop\c progs\forumdiscussion\date.c
+	"date.h"
+	<time.h>
+
+1702928457 c:\users\asus gam\desktop\c progs\forumdiscussion\auteur.h
+	"profil.h"
+	"message.h"
+
+1702834274 c:\users\asus gam\desktop\c progs\forumdiscussion\message.h
+	"date.h"
+
+1702588501 c:\users\asus gam\desktop\c progs\forumdiscussion\rubrique.h
+	"message.h"
+
+1702832639 c:\users\asus gam\desktop\c progs\forumdiscussion\forum.h
+	"rubrique.h"
+	"auteur.h"
+	<stdio.h>
+
+1702569074 c:\users\asus gam\desktop\c progs\forumdiscussion\menu.h
+
+1702929203 source:d:\forum_disscuss_github\auteur.c
+	"auteur.h"
+	<stdio.h>
+	<string.h>
+
+1702928457 d:\forum_disscuss_github\auteur.h
+	"profil.h"
+	"message.h"
+
+1702927721 d:\forum_disscuss_github\profil.h
+	"date.h"
+
+1700385643 d:\forum_disscuss_github\date.h
+	<stdio.h>
+
+1702834274 d:\forum_disscuss_github\message.h
+	"date.h"
+
+1700403733 source:d:\forum_disscuss_github\date.c
+	"date.h"
+	<time.h>
+
+1702834274 source:d:\forum_disscuss_github\forum.c
+	"forum.h"
+	<string.h>
+
+1702832639 d:\forum_disscuss_github\forum.h
+	"rubrique.h"
+	"auteur.h"
+	<stdio.h>
+
+1702588501 d:\forum_disscuss_github\rubrique.h
+	"message.h"
+
+1702571027 source:d:\forum_disscuss_github\menu.c
+	"menu.h"
+
+1702569074 d:\forum_disscuss_github\menu.h
+
+1702834337 source:d:\forum_disscuss_github\message.c
+	"message.h"
+	<stdio.h>
+
+1702927736 source:d:\forum_disscuss_github\profil.c
+	"profil.h"
+	<stdlib.h>
+	<stdio.h>
+
+1702588659 source:d:\forum_disscuss_github\rubrique.c
+	"rubrique.h"
+	<stdio.h>
+
